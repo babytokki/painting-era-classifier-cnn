@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+numpy
+pandas
+altair
+pillow
+jupyter
+opencv-python
