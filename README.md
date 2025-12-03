@@ -22,7 +22,7 @@ Raw Dataset: Painting Eras Detection Classification Dataset by ArtAncestry
 https://share.google/rqdLnLG0PWmTDK0zf
 
 Trained Dataset:
-https://drive.google.com/drive/folders/1heZ_RkMHTFwX5y_xuMbqNWr0fuvIr1w8?usp=sharing
+https://drive.google.com/drive/folders/10H5t042JTYi7Mli0XM-xdCBK6hQBXZvv?usp=drive_link
 
 Trained on 3 classes:
 - Baroque paintings
